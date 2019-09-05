@@ -1,10 +1,10 @@
 ## Welcome Nick A Loyd's Portfolio
 
 ### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a programer/filmmaker trying for find a job to use my creativity. 
 
 ```markdown
-Syntax highlighted code block
+Programing
 
 # Header 1
 ## Header 2
@@ -18,18 +18,17 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://nickaloyd.github.io/NickALoyd/) and ![Image](src)
 ```
 
 ```markdown
-Another Highlighted Code Block
+Filmmaking 
+- Camera Operator
+- Script Supervisor
+- Video Editor
+- Director of Photography
+- Actor
 
-# Header 1
-# Header 2
-# Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
