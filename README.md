@@ -17,9 +17,9 @@ Programing
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](https://nickaloyd.github.io/NickALoyd/) and ![Image](src)
 ```
+[Link](https://nickaloyd.github.io/NickALoyd/) and ![Image](src)
+
 
 ```markdown
 Filmmaking 
