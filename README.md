@@ -36,5 +36,5 @@ Another Highlighted Code Block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://i.imgur.com/th7A2XW.jpg) and ![Image](src)
+[Link](x89fxsg0oid31.png) and ![Image](x89fxsg0oid31.png)
 ```
