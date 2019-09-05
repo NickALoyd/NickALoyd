@@ -25,10 +25,10 @@ Programing
 Filmmaking 
 - Camera Operator
 - Script Supervisor
-- Video Editor
+- **Video Editor**
 - Director of Photography
 - Actor
-
+```
 
 1. Numbered
 2. List
@@ -36,4 +36,4 @@ Filmmaking
 **Bold** and _Italic_ and `Code` text
 
 [Link](x89fxsg0oid31.png) and ![Image](x89fxsg0oid31.png)
-```
+
