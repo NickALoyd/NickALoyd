@@ -35,5 +35,7 @@ Filmmaking
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](x89fxsg0oid31.png) and ![Image](x89fxsg0oid31.png)
+[YouTube](https://www.youtube.com/watch?v=Lh4d4cT5eco)
+
+![Image](x89fxsg0oid31.png)
 
