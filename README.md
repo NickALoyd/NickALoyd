@@ -1,22 +1,12 @@
-## Welcome Nick A Loyd's Portfolio
+# Welcome Nick A Loyd's Portfolio
 
 ### Markdown
 I'm a programer/filmmaker trying for find a job to use my creativity. 
 
 ```markdown
-Programing
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# Programing
+ - Graduated Vincennes with Associates in Computer Science
+ - Xtern Bootcamp with Techpoint 
 ```
 [Link](https://nickaloyd.github.io/NickALoyd/) and ![Image](src)
 
