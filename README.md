@@ -1,6 +1,6 @@
 # Welcome Nick A Loyd's Portfolio
 
-### Markdown
+### About Me
 I'm a programer/filmmaker trying for find a job to use my creativity. 
 
 ```markdown
@@ -8,11 +8,9 @@ I'm a programer/filmmaker trying for find a job to use my creativity.
  - Graduated Vincennes with Associates in Computer Science
  - Xtern Bootcamp with Techpoint 
 ```
-[Link](https://nickaloyd.github.io/NickALoyd/)
-
 
 ```markdown
-Filmmaking 
+# Filmmaking 
 - Camera Operator
 - Script Supervisor
 - **Video Editor**
@@ -20,14 +18,5 @@ Filmmaking
 - Actor
 ```
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[YouTube](https://www.youtube.com/watch?v=Lh4d4cT5eco)
-
-![Image](x89fxsg0oid31.png)
-
+[YouTube](https://www.youtube.com/watch?v=Lh4d4cT5eco) 
 ![Video](VectorProductions.m4v)
-
