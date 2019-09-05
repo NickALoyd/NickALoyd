@@ -8,7 +8,7 @@ I'm a programer/filmmaker trying for find a job to use my creativity.
  - Graduated Vincennes with Associates in Computer Science
  - Xtern Bootcamp with Techpoint 
 ```
-[Link](https://nickaloyd.github.io/NickALoyd/) and ![Image](src)
+[Link](https://nickaloyd.github.io/NickALoyd/)
 
 
 ```markdown
