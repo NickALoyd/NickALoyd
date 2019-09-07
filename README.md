@@ -1,7 +1,7 @@
 # Welcome Nick A Loyd's Portfolio
 
 ### About Me
-I'm a programer/filmmaker trying for find a job to use my creativity. Currently I am learning Motion Graphics, Photoshop, Blender, and WebDesign. [Resume]()
+I'm a programer/filmmaker trying for find a job to use my creativity. Currently I am learning Motion Graphics, Photoshop, Blender, and WebDesign. [Resume](ResumeGithubApple)
 
 
 ```markdown
