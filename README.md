@@ -1,5 +1,5 @@
 # Welcome Nick A Loyd's Portfolio
-[Resume](ResumeGithubApple.pdf)
+[Resume](ResumeGitHubApple.pdf)
 
 ## About Me
 I'm a programer/filmmaker trying for find a job to use my creativity. Currently I am learning Motion Graphics, Photoshop, Blender, Xcode and WebDesign. 
