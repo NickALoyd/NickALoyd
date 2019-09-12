@@ -15,5 +15,5 @@ p, div {
     font-family: 'Nobile', Helvetica, Arial, sans-serif;
 }
 iFrame{
-    max-width: 640;
+    max-width: 100%;
 }
