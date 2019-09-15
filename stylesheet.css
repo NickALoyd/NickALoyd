@@ -21,3 +21,16 @@ iFrame{
 a{
     color:#999;
 }
+header h1{
+    display: inline;
+}
+nav ul{
+    display:inline;
+    margin 0;
+}
+nav ul li{
+    background: #111;
+    list-style-type:none;
+    display: inline-block;
+    padding: 5px 15px;
+}
