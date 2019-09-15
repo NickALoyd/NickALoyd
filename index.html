@@ -21,7 +21,20 @@
                 <iframe title = "Vimeo - NickALoyd Motion Graphics" src="https://player.vimeo.com/video/355019301" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 				<h2>Photoshop</h2>
 				<p>One of my hobbies for many years now soon will be making art.</p>
-				<img src="Media/IMG_7706.jpeg" alt="Troll" style="max-width:100%;">
+				<!--img src="Media/IMG_7706.jpeg" alt="Troll" style="max-width:100%;"!-->
+				<img src="Media/SMALLIMG_7706.webp" alt = "Troll" style = "max-width:100%">
+				<script type = "text/javascript">
+					var image = document.images[0]
+					var bigImage = document.createElement("Img")
+
+					bigImage.onload = function(){
+						image.src = this.src
+					}
+					bigImage.src = "Media/IMG_7706.jpeg"
+					setTimeout(function(){
+						bigImage.src = "Media/IMG_7706.jpeg "
+					},50)
+				</script>
 				<h2>Blender</h2>
 				<p>This has always been an intrest but havn't ever persued it. Going to try to follow tutorials as I learn more.</p>
 				</body>
