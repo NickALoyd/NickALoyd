@@ -33,4 +33,5 @@ nav ul li{
     list-style-type:none;
     display: inline-block;
     padding: 5px 15px;
+    size:40;
 }
