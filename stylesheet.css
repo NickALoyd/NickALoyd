@@ -35,3 +35,16 @@ nav ul li{
     padding: 5px 15px;
     size:40;
 }
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+
+li a {
+  display: block;
+}
